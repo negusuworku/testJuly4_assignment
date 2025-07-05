@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a strong back
 ---
 
 ### 🔧 Tech Stack & Tools
-- **Programming Languages:** Python, SAS, SPSS  
+- **Programming Languages:** Python, SAS, SPSS, SQL, Machine learning   
 - **GIS Platforms:** ArcGIS  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau,   
 - **Others:** Jupyter, Git, Excel  
 
 ---
