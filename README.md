@@ -39,9 +39,10 @@ I'm engaged as a **freelance consultant**, supporting **international organizati
 
 ### 🎯 Motto
 > "Let the data speak, but always listen with purpose."
-> data, football, and family time! 🙌⚽📊
+
 
 ---
+> data, football, and family time! 🙌⚽📊
 
 ![Liverpool Badge](https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg)
 <p align="center"><em>Passionate about data, driven by purpose, inspired by the game.</em></p>
