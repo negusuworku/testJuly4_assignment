@@ -39,6 +39,7 @@ I'm engaged as a **freelance consultant**, supporting **international organizati
 
 ### 🎯 Motto
 > "Let the data speak, but always listen with purpose."
+> data, football, and family time! 🙌⚽📊
 
 ---
 
